@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--category fa referencia a quina epoca de l'any es fa servir-->
+<!--sex fa referencia a si es per home, done o unisex-->
+<!--tipo fa referencia al si es llarg o curt -->
+<!--nation fa referencia a la nacionalitat del dissenyador-->
+<storeonline>
+    <ropa category="verano">
+        <producto sex="hombre">Camiseta de tirantes</producto>
+        <codigo>1010</codigo>
+        <descripcion>Camiseta de tirantes de color negra basica</descripcion>
+        <precio>9.99</precio>
+        <dispon>Stock</dispon>
+        <categoria tipo="corto">Camiesta</categoria>
+        <imagen source="/https://acortar.link/pQmIPC"/>
+        <dis nation="itl">Luigi</dis>
+    </ropa>
+    <ropa category="verano">
+        <producto sex="mujer">Camiseta de manga corta</producto>
+        <codigo>1011</codigo>
+        <descripcion>Camiseta corta de color blanca con estampado de one piece</descripcion>
+        <precio>19.99</precio>
+        <dispon>Stock</dispon>
+        <categoria tipo="corto">Camiseta</categoria>
+        <imagen source="/https://acortar.link/QwApfR"/>
+        <dis nation="cand">Ava</dis>
+    </ropa>
+    <ropa category="verano">
+        <producto sex="hombre">Pantalon corto </producto>
+        <codigo>1012</codigo>
+        <descripcion>Pantalon corto marron de pana</descripcion>
+        <precio>25</precio>
+        <dispon>Stock</dispon>
+        <categoria tipo="corto">Pantalon</categoria>
+        <imagen source="/https://acortar.link/zrW6L0"/>
+        <dis nation="ing">Aurora</dis>
+    </ropa>
+    <ropa category="invierno">
+        <producto sex="unisex">Chaqueta acolchada</producto>
+        <codigo>1110</codigo>
+        <descripcion>Chaqueta de invierno acolchada de color negro con capucha</descripcion>
+        <precio>49.99</precio>
+        <dispon>Agotado</dispon>
+        <categoria tipo="largo">Chaqueta</categoria>
+        <imagen source="/https://acortar.link/mgy2xs"/>
+        <dis nation="frn">François</dis>
+    </ropa>
+    <ropa category="invierno">
+        <producto sex="hombre">Pantalon tejano largo</producto>
+        <codigo>1111</codigo>
+        <descripcion>Pantalon tejano largo azul</descripcion>
+        <precio>30</precio>
+        <dispon>Stock</dispon>
+        <categoria tipo="largo">Pantalon</categoria>
+        <imagen source="/https://acortar.link/bjB1Uc"/>
+        <dis nation="itl">Leonardo</dis>
+    </ropa>
+    <ropa category="invierno">
+        <producto sex="mujer">Camiseta larga</producto>
+        <codigo>1112</codigo>
+        <descripcion>Camiseta larga de rayas de color verde, blanco, amarillo, marron y azul</descripcion>
+        <precio>15.99</precio>
+        <dispon>Stock</dispon>
+        <categoria tipo="largo">Camiseta</categoria>
+        <imagen source="https://acortar.link/i3UXnA"/>
+        <dis nation="esp">Paquita</dis>
+    </ropa>
+</storeonline>
