@@ -8,7 +8,7 @@
             "inhes":13,
             "stock":true,
             "price":{
-                "currency":"€", "valor":780
+                "currency":"€", "value":780
              },
              "internal_info":"C:\\Documents\\files\\matebook.json"
         },
