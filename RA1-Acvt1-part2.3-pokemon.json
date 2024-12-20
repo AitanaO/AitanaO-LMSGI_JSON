@@ -1,0 +1,170 @@
+{
+    "pokedex": [
+        {
+            "pokemons": [
+                {
+                    "identidicador":120,
+                    "nombre":"Staryu",
+                    "tipo":"Agua",
+                    "peso":{
+                        "medida":"Kg", "valor":"34.5"
+                    },
+                    "altura":{
+                        "medida":"m", "valor":"0.8"
+                    },
+                    "estadisticas":[
+                        {
+                            "velocidad":5,
+                            "fortaleza":3,
+                            "precision":3,
+                            "resistencia":3,
+                            "salto":3
+                        }
+                    ],
+                    "movimientos":[
+                        {
+                            "nombre":"Destello",
+                            "descripcion":"Ilumina lugares oscuros",
+                            "potencia":null,
+                            "contacto":false
+                        },
+                        {
+                            "nombre":"Corte P1",
+                            "descripcion":"Corta velozmente",
+                            "potencia":50,
+                            "contacto":true
+                        },
+                        {
+                            "nombre":"Pistola agua",
+                            "descripcion":"Pistola agua causa daño y no tiene ningún efecto secundario.",
+                            "potencia":40,
+                            "contacto":false
+                        }
+                    ],
+                    "imagen":"https://www.wikidex.net/wiki/Archivo:Staryu.png",
+                    "evolucion":121
+                },
+                {
+                    "id":121,
+                    "nombre":"Starmie",
+                    "tipo":["Agua","Psiquico"],
+                    "peso":{
+                        "medida":"Kg", "valor":"80.0"
+                    },
+                    "altura":{
+                        "medida":"m", "valor":"1.1"
+                    },
+                    "estadisticas":[
+                        {
+                            "velocidad":5,
+                            "fortaleza":5,
+                            "precision":3,
+                            "resistencia":3,
+                            "salto":4
+                        }
+                    ],
+                    "movimientos":[
+                        {
+                            "nombre":"Poder oculto",
+                            "descripcion":"Poder oculto causa daño y no tiene efecto secundario.",
+                            "potencia":60,
+                            "contacto":false
+                        },
+                        {
+                            "nombre":"Pistola agua",
+                            "descripcion":"Pistola agua causa daño y no tiene ningún efecto secundario.",
+                            "potencia":40,
+                            "contacto":false
+                        },
+                        {
+                            "nombre":"Psicoonda",
+                            "descripcion":"Psicoonda causa un daño variable al oponente, elegido al azar de un número entre 0,5 y 1,5 veces el nivel del usuario.",
+                            "potencia":40,
+                            "contacto":true
+                        },
+                        {
+                            "nombre":"Placaje",
+                            "descripcion":"Placaje causa daño y no tiene ningún efecto secundario. Este movimiento tiene una potencia de 35 y una precisión del 95%.",
+                            "potencia":null,
+                            "contacto":false
+                        }
+                    ],
+                    "imagen":"https://www.wikidex.net/wiki/Archivo:Starmie.png",
+                    "evolucion":null
+                },
+                {
+                    "id":90,
+                    "nombre":"Shellder",
+                    "tipo":"Agua",
+                    "peso":{
+                        "medida":"Kg", "valor":"4"
+                    },
+                    "altura":{
+                        "medida":"m", "valor":"0.3"
+                    },
+                    "estadisticas":[
+                        {
+                            "velocidad":3,
+                            "fortaleza":3,
+                            "precision":2,
+                            "resistencia":4,
+                            "salto":2
+                        }
+                    ],
+                    "movimientos":[
+                        {
+                            "nombre":"Canto helado",
+                            "descripcion":"Esquirla helada causa daño y es un movimiento de alta prioridad (+1)",
+                            "potencia":40,
+                            "contacto":false
+                        },
+                        {
+                            "nombre":"Placaje",
+                            "descripcion":"Placaje causa daño y no tiene ningún efecto secundario. Este movimiento tiene una potencia de 35 y una precisión del 95%.",
+                            "potencia":40,
+                            "contacto":true
+                        }
+                    ],
+                    "imagen":"https://www.wikidex.net/wiki/Archivo:Shellder.png",
+                    "evolucion":91
+                },
+                {
+                    "id":91,
+                    "nombre":"Cloyster",
+                    "tipo":["Agua","Hielo"],
+                    "peso":{
+                        "medida":"Kg", "valor":"123.5"
+                    },
+                    "altura":{
+                        "medida":"m", "valor":"1.5"
+                    },
+                    "estadisticas":[
+                        {
+                            "velocidad":2,
+                            "fortaleza":5,
+                            "precision":1,
+                            "resistencia":4,
+                            "salto":2
+                        }
+                    ],
+                    "movimientos":[
+                        {
+                            "nombre":"Canto helado",
+                            "descripcion":"Esquirla helada causa daño y es un movimiento de alta prioridad (+1)",
+                            "potencia":40,
+                            "contacto":false
+                        },
+                        {
+                            "nombre":"Vaho gelido",
+                            "descripcion":"Vaho gélido causa daño y siempre asesta un golpe crítico, a no ser que el oponente esté bajo los efectos de conjuro o que tenga la habilidad armadura batalla o caparazón.",
+                            "potencia":60,
+                            "contacto":false
+                        }
+                    ],
+                    "imagen":"https://www.wikidex.net/wiki/Archivo:Cloyster.png",
+                    "evolucion":null
+                }
+            ]
+        }
+    ]
+}
