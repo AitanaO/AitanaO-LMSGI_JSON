@@ -31,7 +31,7 @@
             "inhes":10.4,
             "stock":false,
             "price":{
-                "currency":"€"
+                "currency":"€", "value":null
              }
         },
         {
